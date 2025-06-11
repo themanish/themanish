@@ -1,23 +1,5 @@
-# About
-As a tech enthusiast, I have always seen software as not only just hundreds of lines of code but also tried to evaluate the impact that it has on business and hundreds of people's life. Because of which, I have not limited my knowledge to just development but also planning, delivery and reliability assurance. This journey has led me currently to explore the Devops space and pro-actively improve myself and the team's capability of delivering robust software application.
+Experienced Senior Platform Engineer with a strong background in DevOps, software engineering, and site reliability, currently driving development of internal developer portal to improve DevEx. Over 8+ years in tech (4+ in SRE/DevOps), I’ve led the design and implementation of high-availability systems, optimized infrastructure cost and performance, and reduced operational toil through automation and standardization.
 
-In the past 2-3 years of my DevOps Journey so far:
-- Proficient in Linux administration, writing bash scripts & Jenkins pipeline.
-- Proficient in CI/CD (Git, Docker, Jenkins, Kubernetes, Terraform, Nexus Repository).
-- Proficient in AWS Services (EKS, ECS, Elastic Beanstalk, Cloud Formation, VPC, IAM, EC2, ELB, RDS, etc.)
-- Logging & Monitoring (ELK, APM, Grafana & Prometheus) metrics such as Latency, Error rates, Resource usage, etc.
-- Responsible for Jenkins uptime, scalability & maintenance (via kube agents) 
-- Setup and maintain k8s in AWS via EKS as well as kOps.
-- Setup and maintain cluster autoscaling efficiently via HPA, Cluster Autoscaler, Karpenter.
-- Setup and maintain High Availability Multi-AZ environments.
+I have architected and maintained scalable clusters on AWS (ECS, EKS, kOps) in a domain driven multi-account setup, implemented autoscaling strategies (ASG, HPA, Karpenter), and led CI/CD modernisation using Terraform and GitHub Actions. I also developed internal platforms like a developer portal to improve DevEx and accelerate team velocity, treating platforms as products with measurable impact.
 
-Before I was a Devops I have spent over 5 years as a Full Stack Developer:
-- Working extensively in stack like HTML, CSS, Javascript, Typescript, Java, PHP, Postgres, MySQL.
-- Well versed in Object Oriented programming (OOP), Clean Code, Design Patterns and SOLID
- Principles and Test Driven Development (TDD).
-- Web-development using Frameworks and CMS (Spring Boot, Laravel, Lumen, Angular, CodeIgniter, Wordpress).
-- Experienced in payment gateway integration (Paypal, Authorize.net, Worldpay, Stripe).
-- Agile follower and practitioner (Scrum, Kanban, Scrumban, JIRA, Trello)
-- Develop & document RESTful APIs (Swagger, Postman)
-- Mentionable third party APIs, libraries & tools (Google Maps API, JQuery, Pusher, Websockets, Sentry Application Monitoring & Error Tracking)
-- Hands on experience with microservice based architecture design, development and deployment.
+My foundation as a full stack engineer (JavaScript, Angular, Java, Spring Boot) allows me to deeply understand developer pain points and collaborate effectively to improve reliability, latency, and operational efficiency. I embrace observability, with hands-on experience in ELK and NewRelic to drive proactive incident response and SLOs/SLAs.
